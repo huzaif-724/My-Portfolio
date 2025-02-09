@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This website showcases my skills, projects, and achievements in web development, providing an interactive and user-friendly experience.
 
-## Features
+## Features 
 
 ✅ **Modern & Responsive Design** – Fully optimized for all devices.  
 ✅ **Projects Showcase** – Highlights my best work with details and links.  
