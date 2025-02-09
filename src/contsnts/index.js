@@ -20,6 +20,7 @@ import CampusConnect from "../assets/project/CampusConnect.jpg"
 import portfolio from "../assets/project/portfolio.jpg"
 import edTech from "../assets/project/Edtechh.jpg"
 import todo from "../assets/project/todoo.jpg"
+import shopzy from "../assets/project/shopzy.jpg"
  
 
 export const navLinks = [
@@ -177,16 +178,16 @@ export const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "framer-motion",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
     image: portfolio ,
-    sourceCodeLink: "https://mohd-huzaif.netlify.app",
+    sourceCodeLink: "https://github.com/huzaif-724/My-Portfolio",
   },
 
   {
@@ -253,6 +254,28 @@ export const projects = [
     ],
     image: todo,
     sourceCodeLink: "https://github.com/huzaif-724/Todo-App",
+  },
+
+  {
+    name: "Shopzy-Shopping Cart",
+    description:
+      "Shopzy is a modern shopping cart application developed using React, Redux, and Tailwind CSS. It is designed to provide users with a seamless and intuitive shopping experience, responsiveness, and ease of use.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "redux",
+        color: "green-text-gradient",
+      },
+      {
+        name: "tailwind",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: shopzy,
+    sourceCodeLink: "https://github.com/huzaif-724/Shopzy",
   },
   
 ];
