@@ -14,3 +14,22 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 React.js <br/>
 Tailwind CSS <br/>
 Framer Motion <br/>
+
+## Installation
+
+1. **Clone the repository**
+```sh
+git clone https://github.com/huzaif-724/My-Portfolio.git
+cd My-Portfolio
+```
+
+2. **Install dependencies**
+```sh
+npm install
+```
+
+3. **Run the development server**
+```sh
+npm start
+
+```
