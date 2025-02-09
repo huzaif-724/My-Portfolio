@@ -11,6 +11,6 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 ✅ **Smooth Animations** – Enhances user experience with transitions and effects using Framer Motion.
 
 ## Tech Stack
-React.js
-Tailwind CSS
-Framer Motion
+React.js <br/>
+Tailwind CSS <br/>
+Framer Motion <br/>
