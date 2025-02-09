@@ -29,13 +29,13 @@ const Contact = () => {
       }
 
   return (
-    <section className="min-h-screen  lg:w-[1200px] mx-auto px-5 pt-14 pl-10 mb-10 lg:mb-0" id="/contact">
+    <section className="lg:min-h-screen h-[600px] lg:w-[1200px] mx-auto px-5 pt-14 pl-10 mb-10 lg:mb-0" id="/contact">
      
     <motion.div variants={textVariant()} initial="hidden" whileInView="show" viewport={{ once: true, amount: 0.2 }}>
       <p className="sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider">
       Get in touch
       </p>
-      <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">
+      <h2 className="text-white font-black md:text-[50px] sm:text-[50px] xs:text-[40px] text-[30px]">
       Contact
       </h2>
     </motion.div>

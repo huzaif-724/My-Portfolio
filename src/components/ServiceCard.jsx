@@ -12,7 +12,7 @@ const ServiceCard = ({ index, title, icon }) => {
       tiltMaxAngleY={30} 
       glareColor="#aaa6c3" 
     >
-      <div className="xs:w-[250px]  w-[230px]">
+      <div className="xs:w-[250px]  w-[260px]">
         <motion.div
           variants={fadeIn("right", "spring", index * 0.5, 0.75)}
           initial="hidden" // Initial state before the animation

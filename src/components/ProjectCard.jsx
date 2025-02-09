@@ -15,7 +15,7 @@ const ProjectCard = ({ index,
         initial="hidden"
         animate="show" >
         
-            <div className="bg-tertiary w-full rounded-2xl p-5 sm:w-[300px] hover:">
+            <div className="bg-tertiary w-full rounded-2xl p-5 sm:w-[300px]">
               <div className="relative h-[230px] w-full">
                 <img
                   src={image}
@@ -36,7 +36,7 @@ const ProjectCard = ({ index,
                 </div>
               </div>
               <div className="mt-5">
-                <h3 className="text-[24px] font-bold text-white">{name}</h3>
+                <h3 className="text-[22px] font-bold text-white">{name}</h3>
                 <p className="text-secondary mt-2 text-[14px]">{description}</p>
               </div>
               <div className="mt-4 flex flex-wrap gap-2">

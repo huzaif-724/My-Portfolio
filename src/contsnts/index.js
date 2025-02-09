@@ -169,7 +169,7 @@ export const projects = [
     sourceCodeLink: "https://github.com/huzaif-724/TextMate",
   },
   {
-    name: "My portfolio",
+    name: "My Portfolio",
     description:
       "Developed a personal portfolio website to showcase my skills, projects, and achievements. Designed with a responsive layout for seamless viewing on all devices.",
     tags: [
